@@ -1,5 +1,5 @@
 /*
-* simple static fileserver + twitter feed
+* simple static fileserver + twitter client
 */
 
 var sys = require("sys"),
